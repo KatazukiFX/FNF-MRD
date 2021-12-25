@@ -1,0 +1,6 @@
+mad-rat-alive:gf-ratgod:1
+rats-dream:doctor:1
+hearts-beat:doctor:1
+one-day-at-lab:doctor:1
+mad-heart:heart:2
+mad-rat-dead-rap:cheese-man:2

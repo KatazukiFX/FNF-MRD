@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="MOB RATS2.png">
+	<!-- Created with Adobe Animate version 16.5.0.100 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="RAT MOB20000" x="0" y="0" width="361" height="180" frameX="0" frameY="-15" frameWidth="361" frameHeight="195"/>
+	<SubTexture name="RAT MOB20001" x="371" y="0" width="359" height="180" frameX="-2" frameY="-15" frameWidth="361" frameHeight="195"/>
+	<SubTexture name="RAT MOB20002" x="0" y="190" width="359" height="188" frameX="-2" frameY="-7" frameWidth="361" frameHeight="195"/>
+	<SubTexture name="RAT MOB20003" x="369" y="190" width="354" height="188" frameX="-7" frameY="-7" frameWidth="361" frameHeight="195"/>
+	<SubTexture name="RAT MOB20004" x="0" y="388" width="332" height="192" frameX="-7" frameY="-3" frameWidth="361" frameHeight="195"/>
+	<SubTexture name="RAT MOB20005" x="342" y="388" width="330" height="192" frameX="-9" frameY="-3" frameWidth="361" frameHeight="195"/>
+	<SubTexture name="RAT MOB20006" x="0" y="590" width="345" height="195" frameX="-9" frameY="0" frameWidth="361" frameHeight="195"/>
+	<SubTexture name="RAT MOB20007" x="355" y="590" width="345" height="195" frameX="-9" frameY="0" frameWidth="361" frameHeight="195"/>
+	<SubTexture name="RAT MOB20008" x="0" y="795" width="351" height="195" frameX="-9" frameY="0" frameWidth="361" frameHeight="195"/>
+	<SubTexture name="RAT MOB20009" x="361" y="795" width="360" height="195" frameX="0" frameY="0" frameWidth="361" frameHeight="195"/>
+</TextureAtlas>

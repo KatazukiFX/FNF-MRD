@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="menu screen.png">
+	<!-- Created with Adobe Animate version 16.5.0.100 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="logo bumpin beta0000" x="0" y="0" width="534" height="554" frameX="-14" frameY="-12" frameWidth="561" frameHeight="582"/>
+	<SubTexture name="logo bumpin beta0001" x="544" y="0" width="561" height="582"/>
+	<SubTexture name="logo bumpin beta0002" x="544" y="0" width="561" height="582"/>
+	<SubTexture name="logo bumpin beta0003" x="1115" y="0" width="545" height="566" frameX="-8" frameY="-7" frameWidth="561" frameHeight="582"/>
+	<SubTexture name="logo bumpin beta0004" x="1115" y="0" width="545" height="566" frameX="-8" frameY="-7" frameWidth="561" frameHeight="582"/>
+	<SubTexture name="logo bumpin beta0005" x="0" y="592" width="541" height="561" frameX="-10" frameY="-9" frameWidth="561" frameHeight="582"/>
+	<SubTexture name="logo bumpin beta0006" x="0" y="592" width="541" height="561" frameX="-10" frameY="-9" frameWidth="561" frameHeight="582"/>
+	<SubTexture name="logo bumpin beta0007" x="0" y="592" width="541" height="561" frameX="-10" frameY="-9" frameWidth="561" frameHeight="582"/>
+	<SubTexture name="logo bumpin beta0008" x="0" y="592" width="541" height="561" frameX="-10" frameY="-9" frameWidth="561" frameHeight="582"/>
+	<SubTexture name="logo bumpin beta0009" x="0" y="592" width="541" height="561" frameX="-10" frameY="-9" frameWidth="561" frameHeight="582"/>
+</TextureAtlas>

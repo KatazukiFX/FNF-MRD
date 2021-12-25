@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Untitled-2.png">
+	<!-- Created with Adobe Animate version 16.5.0.100 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+    <SubTexture name="confettiS0000" x="361" y="355" width="151" height="157"/>
+	<SubTexture name="confettiS0001" x="0" y="0" width="107" height="88" frameX="-15" frameY="-25" frameWidth="151" frameHeight="157"/>
+	<SubTexture name="confettiS0002" x="117" y="0" width="131" height="108" frameX="-10" frameY="-1" frameWidth="151" frameHeight="157"/>
+	<SubTexture name="confettiS0003" x="258" y="0" width="147" height="91" frameX="0" frameY="-12" frameWidth="151" frameHeight="157"/>
+	<SubTexture name="confettiS0004" x="0" y="118" width="121" height="106" frameX="-26" frameY="-1" frameWidth="151" frameHeight="157"/>
+	<SubTexture name="confettiS0005" x="131" y="118" width="125" height="108" frameX="-23" frameY="-2" frameWidth="151" frameHeight="157"/>
+	<SubTexture name="confettiS0006" x="266" y="118" width="134" height="118" frameX="-17" frameY="0" frameWidth="151" frameHeight="157"/>
+	<SubTexture name="confettiS0007" x="0" y="246" width="119" height="120" frameX="-18" frameY="-4" frameWidth="151" frameHeight="157"/>
+	<SubTexture name="confettiS0008" x="129" y="246" width="119" height="108" frameX="-14" frameY="-17" frameWidth="151" frameHeight="157"/>
+	<SubTexture name="confettiS0009" x="258" y="246" width="119" height="121" frameX="-14" frameY="-30" frameWidth="151" frameHeight="157"/>
+	<SubTexture name="confettiS0010" x="387" y="246" width="91" height="78" frameX="-14" frameY="-79" frameWidth="151" frameHeight="157"/>
+	<SubTexture name="confettiS0011" x="0" y="377" width="92" height="58" frameX="-15" frameY="-84" frameWidth="151" frameHeight="157"/>
+	<SubTexture name="confettiS0012" x="361" y="355" width="151" height="157"/>
+</TextureAtlas>
