@@ -24,7 +24,7 @@ This game was made with love to Newgrounds and its community. Extra love to Tom 
 
 ### FNF x MRD Mod
  - [Katazuki](https://twitter.com/KatazukiFX) - Programming & Charting
- - [NCHProductions](https://twitter.com/NCHproductions) - Art
+ - [NCHProductions](https://www.youtube.com/c/NCHProductions) - Art
  - [Cutila-Mun](https://twitter.com/Florageiist) - Art & SFX
- - [Yamahearted](https://twitter.com/2612watts) - Music
+ - [Yamahearted](http://yamahearted.herokuapp.com/) - Music
  - [You can't beat D](https://twitter.com/You_Cant_Beat_D) - Charting
